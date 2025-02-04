@@ -11,7 +11,7 @@ Um simples e eficiente To-Do List feito em **React** para ajudar você a organiz
 
 ## 📸 Preview
 
-![To-Do List Preview](./screenshot.png)
+![To-Do List Preview](./assets/preview.png)
 
 ## 📌 Funcionalidades
 
